@@ -5,6 +5,10 @@
   color: white;
 }
 
+main {
+  overflow-x: hidden; 
+}
+
 body {
   --theme-color: #0f357acc;
   height: 100vh;
